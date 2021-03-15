@@ -7,7 +7,7 @@ A2Cloud is a free, fully customizable cloud service.
  - Run the server (file named A2Net)
  - Exit the server when the messages `Package 'packages/config.a2p' successfully extracted.` and `Package 'packages/web.a2p' successfully extracted.` are displayed.
  &nbsp;
- ### Configurating the server with settings.xml
+ ## Configurating the server with settings.xml
 
 `defaultstoragecapacity` is the default storage capacity (in bytes) for a user. 
 
