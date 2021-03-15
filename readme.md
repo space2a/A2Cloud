@@ -1,13 +1,13 @@
-# A2Cloud, your very own cloud
 
+# ☁️ A2Cloud, your very own cloud
 A2Cloud is a free, fully customizable cloud service.
 
-## First launch
+## ⚙️ First launch
  - Extract the files located in the .zip archive in a new directory dedicated to the A2Cloud server
  - Run the server (file named A2Net)
  - Exit the server when the messages `Package 'packages/config.a2p' successfully extracted.` and `Package 'packages/web.a2p' successfully extracted.` are displayed.
  &nbsp;
- ## Configurating the server with settings.xml
+ ## 🔧 Configurating the server with settings.xml
 
 `defaultstoragecapacity` is the default storage capacity (in bytes) for a user. 
 
@@ -25,7 +25,7 @@ A2Cloud is a free, fully customizable cloud service.
 
  **🗑** *= Leaving this field blank will disable the functionality*
 &nbsp;
-## Customizing the web interface
+## 🖌 Customizing the web interface
  You can freelly customize the web interface managed by the A2Cloud server.
  
  The A2Cloud web server is only working with the files present in the directory "www", this directory need to be in the same directory as the A2Net executable.
@@ -61,7 +61,7 @@ Environment variables are text strings that you use globally or in specific web 
 | `__FILE_URL__` | Display the direct download link of the file|
 
 &nbsp;
-## Server commands
+## 🔍 Server commands
 
 ### Essential commands
 
