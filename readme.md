@@ -12,9 +12,11 @@ A2Cloud is a free, fully customizable cloud service.
 `defaultstoragecapacity` is the default storage capacity (in bytes) for a user. 
 
 `webserverport` is the port used by the web server **🗑**
+
 `webconsoleport` is the port used by the web server <u>is it heavily recommended to restreint the access to this interface or disable it</u>
 
 `webserverport` is the port used by the clients to access the server
+
 `fileport` is the port used by the clients to send files to the server
 
 `webconsolepassword` is the password used to access the console interface **🗑**
@@ -55,7 +57,7 @@ Environment variables are text strings that you use globally or in specific web 
 |dwl.html environment variables| Usage |
 |--|--|
 | `__FILE_NAME__` | Display the name of the about to be downloaded file|
-| `__FILE_SIZE__` | Display the size the file|
+| `__FILE_SIZE__` | Display the size of the file|
 | `__FILE_AUTHOR__` | Display the file author's name|
 | `__FILE_DWL_AMOUNT__` | Display the number of time the file has been downloaded|
 | `__FILE_URL__` | Display the direct download link of the file|
